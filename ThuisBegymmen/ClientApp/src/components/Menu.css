@@ -1,0 +1,52 @@
+.buttons {
+    float: right;
+    background-color: #5a5a5a;
+    height: 40px;
+    color: black;
+    width:30px; 
+    border: 0px;
+    margin-top: 0.5%;
+    transition: all 0.4s;
+    color: white;
+    border: 2px solid #cede01;
+    padding: 0px;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.24), 0 2px 2px 0 rgba(0,0,0,0.19);
+  }
+
+  .buttons_description {
+    position: absolute;
+    top: 340px;
+    bottom: 0;
+    right: 5%;
+    width: 50px;
+    height: 50px;
+    color: #fff;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity .2s, visibility .2s;
+    font-size: 20px;
+  }
+
+ .buttons:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.buttons:focus{
+    outline: 0;
+}
+
+.buttons:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.buttons:hover .buttons_description{
+    visibility: visible;
+    opacity: 1;
+}
+
+

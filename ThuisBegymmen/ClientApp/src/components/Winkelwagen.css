@@ -1,0 +1,68 @@
+.winkelwagenList{
+
+    float: none;
+    margin: auto;
+    border-bottom: 2px solid #cede01;
+    color: white;
+}
+tr
+{
+    border-bottom: 2px solid #cede01;
+}
+td
+{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.NietGeregistreerdeGebruiker {
+    width: 20%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 0px;
+  }
+.NietGeregistreerdeGebruiker:hover{
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+.NietGeregistreerdeGebruiker:focus{
+    outline: 0;
+}
+.NietGeregistreerdeGebruiker:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.VerwijderProduct {
+    width: 100%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    padding: 0px;
+  }
+.VerwijderProduct:hover{
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+.VerwijderProduct:focus{
+    outline: 0;
+}
+.VerwijderProduct:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}

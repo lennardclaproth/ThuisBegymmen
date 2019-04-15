@@ -1,0 +1,403 @@
+.MijnThuisBegymmen {
+    width:100%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 14px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+  }
+
+  .MijnThuisBegymmen:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.MijnThuisBegymmen:focus{
+    outline: 0;
+}
+
+.MijnThuisBegymmen:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+
+
+.Klantenservice {
+    width:100%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 14px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+  }
+
+  .Klantenservice:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.Klantenservice:focus{
+    outline: 0;
+}
+
+.Klantenservice:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.ServiceEnContact {
+    width:100%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 14px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+  }
+
+  .ServiceEnContact:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.ServiceEnContact:focus{
+    outline: 0;
+}
+
+.Servicecontact:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.BezorgenEnAfhalen{
+    width:100%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 14px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+  }
+
+  .BezorgenEnAfhalen:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.BezorgenEnAfhalen:focus{
+    outline: 0;
+}
+
+.BezorgenEnAfhalen:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.Retourneren {
+    width:100%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 14px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+  }
+
+  .Retourneren:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.Retourneren:focus{
+    outline: 0;
+}
+
+.Retourneren:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.GarantieEnReparatie {
+    width:100%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 14px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+  }
+
+  .GarantieEnReparatie:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.GarantieEnReparatie:focus{
+    outline: 0;
+}
+
+.GarantieEnReparatie:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.Privacybeleid {
+    width:100%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 14px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+  }
+
+  .Privacybeleid:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.Privacybeleid:focus{
+    outline: 0;
+}
+
+.Privacybeleid:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.Cookiebeleid {
+    width:100%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 14px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+  }
+
+  .Cookiebeleid:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.Cookiebeleid:focus{
+    outline: 0;
+}
+
+.Cookiebeleid:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.WerkenBijThuisBegymmen{
+    width:100%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 14px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+  }
+
+  .WerkenBijThuisBegymmen:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.WerkenBijThuisBegymmen:focus{
+    outline: 0;
+}
+
+.WerkenBijThuisBegymmen:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+
+
+
+.Betaalwijze{
+    width:100%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 15px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+  }
+
+  .Betaalwijze:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.Betaalwijze:focus{
+    outline: 0;
+}
+
+.Betaalwijze:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.Bestellen{
+    width:100%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 15px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+  }
+
+  .Bestellen:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.Bestellen:focus{
+    outline: 0;
+}
+
+.Bestellen:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+
+.Email_Adres {
+    width: 53%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 16px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 5px;
+  }
+.Email_Adres:hover{
+    background-color: #cede01;
+    cursor: auto;
+    color: black;
+}
+.Email_Adres:focus{
+    outline: 0;
+}
+.Email_Adres:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.KlikOpInschrijven {
+    width: 53%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 52px;
+    margin-top: 25px;
+    line-height: 20px;
+    transition: all 0.4s;
+    font-size: 14px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 5px;
+  }
+.KlikOpInschrijven:hover{
+    background-color: #cede01;
+    cursor: auto;
+    color: black;
+}
+.KlikOpInschrijven:focus{
+    outline: 0;
+}
+.KlikOpInschrijven:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+table{
+    width: 100%;
+}

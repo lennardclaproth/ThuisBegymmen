@@ -1,0 +1,155 @@
+.Buttons {
+    width:100%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0.5%;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 18px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+  }
+
+    .Buttons:hover{
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+        background-color: #cede01;
+        cursor: pointer;
+        color: black;
+        }
+    
+    .Buttons:focus{
+        outline: 0;
+    }
+
+    .Buttons:active{
+        background-color: #5a5a5a;
+        color: white;
+        top: 3px;
+    }
+
+.FavButtons {
+    width:40%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0.5%;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 18px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+  }
+
+    .FavButtons:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+    }
+
+    .FavButtons:focus{
+        outline: 0;
+    }
+
+    .FavButtons:active{
+        background-color: #5a5a5a;
+        color: white;
+        top: 3px;
+    }
+
+.FhButtons {
+    width:100%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0.5%;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 16px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+  }
+
+    .FhButtons:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+    }
+
+    .FhButtons:focus{
+        outline: 0;
+    }
+
+    .FhButtons:active{
+        background-color: #5a5a5a;
+        color: white;
+        top: 3px;
+    }
+
+    
+.FcButtons {
+    width:100%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0.5%;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 14px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+  }
+
+    .FcButtons:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+    }
+
+    .FcButtons:focus{
+        outline: 0;
+    }
+
+    .FcButtons:active{
+        background-color: #5a5a5a;
+        color: white;
+        top: 3px;
+    }
+
+.PageButtons {
+    width:4%;
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0.5%;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 24px;
+    color: white;
+    border-bottom: 1px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+    }
+
+    .PageButtons:hover{
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+        background-color: #cede01;
+        cursor: pointer;
+        color: black;
+        }
+    
+    .PageButtons:focus{
+        outline: 0;
+    }
+
+    .PageButtons:active{
+        background-color: #5a5a5a;
+        color: white;
+        top: 3px;
+    }

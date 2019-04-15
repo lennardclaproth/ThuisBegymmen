@@ -1,0 +1,186 @@
+.Naam {
+    width: 15%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 5px;
+  }
+.Naam:hover{
+    background-color: #cede01;
+    cursor: auto;
+    color: black;
+}
+.Naam:focus{
+    outline: 0;
+}
+.Naam:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.Achternaam {
+    width: 15%;
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 5px;
+}
+.Achternaam:hover{
+    background-color: #cede01;
+    cursor: auto;
+    color: black;
+}
+.Achternaam:focus{
+    outline: 0;
+}
+.Achternaam:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.StraatHuisnr {
+    width: 15%;
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 5px;
+  }
+.StraatHuisnr:hover{
+    background-color: #cede01;
+    cursor: auto;
+    color: black;
+}
+.StraatHuisnr:focus{
+    outline: 0;
+}
+.StraatHuisnr:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.Postcode {
+    width: 15%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 5px;
+  }
+.Postcode:hover{
+    background-color: #cede01;
+    cursor: auto;
+    color: black;
+}
+.Postcode:focus{
+    outline: 0;
+}
+.Postcode:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.EmailAdres {
+    width: 15%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 5px;
+  }
+.EmailAdres:hover{
+    background-color: #cede01;
+    cursor: auto;
+    color: black;
+}
+.EmailAdres:focus{
+    outline: 0;
+}
+.EmailAdres:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.GebruikUser {
+    width: 20%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 5px;
+  }
+.GebruikUser:hover{
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+.GebruikUser:focus{
+    outline: 0;
+}
+.GebruikUser:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.Tussenvoegsel {
+    width: 15%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 5px;
+  }
+.Tussenvoegsel:hover{
+    background-color: #cede01;
+    cursor: auto;
+    color: black;
+}
+.Tussenvoegsel:focus{
+    outline: 0;
+}
+.Tussenvoegsel:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}

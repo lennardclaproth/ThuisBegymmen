@@ -1,0 +1,243 @@
+.LoginAccount {
+    width: 10%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 0px;
+  }
+.LoginAccount:hover{
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+.LoginAccount:focus{
+    outline: 0;
+}
+.LoginAccount:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.CreateAccount {
+    width:15%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 0px;
+  }
+.CreateAccount:hover{
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+.CreateAccount:focus{
+    outline: 0;
+}
+.CreateAccount:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.Gebruikersnaam {
+    width: 15%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 5px;
+  }
+.Gebruikersnaam:hover{
+    background-color: #cede01;
+    cursor: auto;
+    color: black;
+}
+.Gebruikersnaam:focus{
+    outline: 0;
+}
+.Gebruikersnaam:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.Wachtwoord {
+    width: 15%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 5px;
+  }
+.Wachtwoord:hover{
+    background-color: #cede01;
+    cursor: auto;
+    color: black;
+}
+.Wachtwoord:focus{
+    outline: 0;
+}
+.Wachtwoord:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+h1{
+    color: white;
+}
+
+.Telefoonnummer {
+    width: 15%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 5px;
+  }
+.Telefoonnummer:hover{
+    background-color: #cede01;
+    cursor: auto;
+    color: black;
+}
+.Telefoonnummer:focus{
+    outline: 0;
+}
+.Telefoonnummer:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+.WachtwoordText{
+    color: red;
+}
+
+.inputText {
+    width: 130%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 5px;
+  }
+.inputText:hover{
+    background-color: #cede01;
+    cursor: auto;
+    color: black;
+}
+.inputText:focus{
+    outline: 0;
+}
+.inputText:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+.inputButton {
+    width: 100%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 0px;
+  }
+.inputButton:hover{
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+.inputButton:focus{
+    outline: 0;
+}
+.inputButton:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.Prijs {
+    width: 80%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 5px;
+  }
+.Prijs:hover{
+    background-color: #cede01;
+    cursor: auto;
+    color: black;
+}
+.Prijs:focus{
+    outline: 0;
+}
+.Prijs:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.Inventaris {
+    width: 80%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin-top: 10px;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 5px;
+  }
+.Inventaris:hover{
+    background-color: #cede01;
+    cursor: auto;
+    color: black;
+}
+.Inventaris:focus{
+    outline: 0;
+}
+.Inventaris:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+

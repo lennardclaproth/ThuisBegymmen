@@ -1,0 +1,39 @@
+.Submenu{
+    width: 100%;
+    background-color: #bababa;
+    margin-bottom: 1%;
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.24)
+}
+
+
+
+.Subcategory {
+    width:20%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin: 0.5%;
+    line-height: 40px;
+    transition: all 0.4s;
+    font-size: 120%;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    padding: 0px;
+  }
+
+  .Subcategory:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.Subcategory:focus{
+    outline: 0;
+}
+
+.Subcategory:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}

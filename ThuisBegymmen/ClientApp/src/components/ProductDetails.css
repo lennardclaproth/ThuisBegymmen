@@ -1,0 +1,201 @@
+.Grid {
+    color: black;
+    background-color: #bababa;
+    border: 2px solid #cede01;
+    margin: 15px;
+    padding: 5px;
+    transition: all 0.4s;
+    height: 90%;
+    width: 90%;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.24), 0 7px 5px 0 rgba(0,0,0,0.19);
+  }
+
+.Grid:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: default;
+    color: black;
+}
+
+.Grid:focus{
+    outline: 0;
+}
+
+
+.Grid_header{
+    color: black;
+    transition: all 0.4s;  
+  }
+
+
+.Grid_content{
+    color: black;
+    background-color: #bababa;
+    border: 2px solid #cede01;
+    margin: 24px;
+    transition: all 0.4s;  
+  }
+
+  .Grid:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+
+.Grid_footer{
+    color: black;
+    transition: all 0.4s;  
+  }
+
+
+.textbox{
+    width: 45%;
+    background-color: #5a5a5a;
+    border: 2px solid #cede01;
+    line-height: 40px;
+    transition: all 0.4s;
+    color: white;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.24), 0 7px 5px 0 rgba(0,0,0,0.19);
+}
+
+
+
+.Button {
+    background-color: #5a5a5a;
+    border: 0px;
+    width: 100%;
+    line-height: 40px;
+    transition: all 0.4s;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    margin-top: 40px; 
+    font-size: 150%;
+  }
+
+  .button_description {
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity .2s, visibility .2s;
+    top: 100%;
+    margin-top: 5%;
+    font-size: 200%;
+    color:    #cede01;
+   
+  }
+
+  .Button:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.Button:focus{
+    outline: 0;
+}
+
+.Button:active{
+    background-color: #5a5a5a;
+    color: white;
+}
+.Button:hover .button_description{
+    visibility: visible;
+    opacity: 1;
+}
+
+.WinkelwagenButton {
+    background-color: #5a5a5a;
+    border: 0px;
+    width: 100%;
+    line-height: 40px;
+    transition: all 0.4s;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    font-size: 150%;
+  }
+
+  .button_description {
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity .2s, visibility .2s;
+    top: 100%;
+    margin-top: 5%;
+    font-size: 200%;
+    color:    #cede01;
+   
+  }
+
+  .WinkelwagenButton:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.WinkelwagenButton:focus{
+    outline: 0;
+}
+
+.WinkelwagenButton:active{
+    background-color: #5a5a5a;
+    color: white;
+}
+.WinkelwagenButton:hover .button_description{
+    visibility: visible;
+    opacity: 1;
+}
+
+.hoeveelheid {
+    width: 80%; 
+    background-color: #5a5a5a;
+    border: 0px;
+    margin-bottom: 10px;
+    height: 30px;
+    transition: all 0.4s;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid #cede01;
+    padding: 5px;
+  }
+.hoeveelheid:hover{
+    background-color: #cede01;
+    cursor: auto;
+    color: black;
+}
+.hoeveelheid:focus{
+    outline: 0;
+}
+.hoeveelheid:active{
+    background-color: #5a5a5a;
+    color: white;
+    top: 3px;
+}
+
+.verwijderOrder {
+    background-color: #5a5a5a;
+    border: 0px;
+    width: 100%;
+    line-height: 40px;
+    transition: all 0.4s;
+    color: white;
+    border-bottom: 2px solid red;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    margin-top: 40px; 
+    font-size: 150%;
+  }
+
+  .verwijderOrder:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 25px 0 rgba(0,0,0,0.19);
+    background-color: #cede01;
+    cursor: pointer;
+    color: black;
+}
+
+.verwijderOrder:focus{
+    outline: 0;
+}
